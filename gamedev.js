@@ -58,7 +58,7 @@ $( document ).ready(function() {
 		$("#goRight1").show();
 		$("#goLeft1").show();
 	});
-
+x
 
 
 });
